@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BearerToken</key>
+	<string>eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5N2MzZWY1N2Y5NzVjNjExN2Y3ZmE4MmZmMWVlMjE5ZiIsIm5iZiI6MTcyMDUwNzg3MS4wOTA3MzQsInN1YiI6IjY2OGNkM2E2OWU3OWFiMzMyNmM0MTNmNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ._bTvZv4vNuBn_sJ6RT4E52uewbMYqQUvNosXj86JPHQ</string>
+</dict>
+</plist>
